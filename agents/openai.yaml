@@ -1,0 +1,5 @@
+interface:
+  display_name: "医学综述重构与写作"
+  short_description: "从全文证据重构综述的选文、论证与图表，并支持新医学问题的综合写作"
+  brand_color: "#074591"
+  default_prompt: "使用 $review-reconstruction，依据现有全文和索引重构综述论证，或为新问题建立可追溯的综述写作方案。"
