@@ -20,6 +20,8 @@ class Records(unittest.TestCase):
         self.assertEqual(report['unique_record_count'],2)
         self.assertEqual(report['recorded_full_text_read_count'],1)
         self.assertEqual(report['records_without_full_read_record'],1)
+        self.assertEqual(report['recorded_correction_read_count'],0)
+        self.assertEqual(report['recorded_auxiliary_record_count'],0)
         self.assertNotIn('study_count',report)
         self.assertFalse(report['errors'])
 

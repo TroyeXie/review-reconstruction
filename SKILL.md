@@ -30,17 +30,29 @@ Load [the reconstruction workflow](references/workflow.md#mode-a) and the releva
 
 Load [the writing workflow](references/workflow.md#mode-b). First fix the audience, decision/problem, genre, cutoff and added value. Do not inherit old case conclusions or dates.
 
-Build the candidate set and a claim–evidence map before a detailed outline. Choose sections around unresolved reader questions and evidence relationships. Present comparable estimates together, explain disagreements, and separate technical success, mechanism, surrogate response and patient benefit.
+Build the question-led candidate set and a claim–evidence map before a detailed outline. In the existing selection or evidence record, state what each source contributes to a judgment: direct support, independent replication, a limitation, an explanation of differences, or necessary background. Follow the stated eligibility method; a source's paragraph role does not replace inclusion criteria.
 
-Design each figure around a reader question. Deliver an original editable figure/table when requested, with a caption and traceable sources. Then write synthesis paragraphs with claim strength matched to the measured evidence. A narrative review is not automatically a systematic review; reporting requirements follow the chosen purpose and method.
+Group the sources by the question they answer and the outcomes they actually measure. Choose where a comparison needs detail, where background can be compressed, and where a later report adds a new measurement to reused data. Turn each group into a section with an entry question, a supported exit judgment and a reason to move to the next question.
+
+Draft scientific prose that states the judgment and explains the relationship among findings. Keep teaching commentary about why the paragraph was organised this way outside that prose. Use an original editable table or figure for the comparisons readers need to see together, with a caption and traceable sources. Its categories, denominators and limits must agree with the paragraph. Iterate when drafting reveals a missing comparison or an overbroad question; a narrative review is not automatically a systematic review.
+
+Before finalising a passage, check its reader-facing claim against the evidence record. Carry a limitation that changes applicability into the relevant scope sentence, claim or caption, and check both languages. Revisit other measurements in the same core report when they could qualify that claim; preserve their endpoint status and meaning instead of selecting by statistical significance or listing every secondary result. Reuse the existing prose and table; no extra ledger is required.
+
+The [evidence-to-prose examples](references/cross-case-methods.md) show how these decisions change space allocation, interpretation and section transitions. Apply the decision process to the new evidence, not the old cases' medical conclusions.
 
 ## Rules and quality checks
 
-For a concrete path from question to selection, evidence groups, sections and prose, load [the case-based method guide](references/method-decisions.md). It includes ten structural choices and three worked evidence-group → paragraph → section examples. Use `assets/section-plan.csv` when building a new outline; do not turn its fields into mandatory prose headings.
+Start with [rules by writing decision](references/rule-use.md) when deciding which checks a task actually needs. Its eight entry points route the 63 candidate rules without requiring 63 separate workflows. Reuse a shared identity, denominator or panel-source record across overlapping rules; keep their distinct conditions. Apply checks to the requested prose, selection, section or figure instead of treating more audit tables as the deliverable.
+
+For a concrete path from question to selection, evidence groups, sections and prose, load [the case-based method guide](references/method-decisions.md). It includes ten structural choices, source-role decisions and worked evidence-group → paragraph → section examples. Use `assets/section-plan.csv` when building a new outline; do not turn its fields into mandatory prose headings.
+
+When the task concerns choosing a chapter axis, updating a prior review, comparing how reviews use the same study, or turning complementary sources into a paragraph and comparison table, read the relevant section of [cross-case methods](references/cross-case-methods.md). It connects those decisions to actual evidence groups, alternative paragraphs, an editable teaching figure and failure conditions. Preserve the distinction between observed author choices and your proposed improvement; examples from a later historical window cannot establish an earlier author's omission.
 
 Read [case-derived decisions](references/case-decisions.md) when comparing treatments, following screening pathways, or resolving versions and denominators. Apply a rule only within its documented conditions. A plausible single-case rule remains a candidate until tested.
 
 For other argument or figure decisions, select relevant rows from [the candidate rule register](references/candidate-rules.csv). Its claim IDs resolve in [source claims](references/source-claims.csv), with explicit links in [the claim-source map](references/claim-source-map.csv) and titles/DOIs in [source identities](references/source-identities.csv). Mother-context links, linked reports and unresolved source tokens are distinct. Preserve the claim's reading scope and unknowns; an identity link does not certify full-text reading. These are original analytical records from all ten learning cases. Do not load the entire register unless needed.
+
+The [source clarifications](references/source-clarifications-v035.md) narrow six early support statements to the actual mother-review observations or current registry identity. They do not establish additional full-text reading, historical registry verification or general rule validity.
 
 - Preserve the comparator, analysis unit and follow-up with an effect estimate. Do not turn a confidence bound into an average effect.
 - Link reports from the same study using methods and sample evidence, not title similarity. Multiple agents agreeing do not create independent scientific evidence.
@@ -49,6 +61,10 @@ For other argument or figure decisions, select relevant rows from [the candidate
 - Separate absence of evidence from evidence of absence; qualify conclusions with the actual source of uncertainty rather than generic disclaimers.
 
 Use `scripts/review_records.py` for deterministic identity/path/coverage checks. It does not read papers, judge quality, decide inclusion, or certify scientific completion. See the [README](README.md) for invocation and validation limits.
+
+The [three case corrections](references/corrections-v033.md) explain why definitions must be checked against actual coverage, and why measurement changes, display classes and clinical effects remain distinct. Read them when using T06-RUL06 or T08-RULE02/05. They revise training-case interpretations; they are not independent validation results.
+
+For evaluating a revised method, consult the [version-specific validation record](evals/validation-summary.md). The [retained v0.3.2 protocol](evals/protocol-v032.md) belongs to that version's limited comparison; it is not automatically retargeted to this revision. Before a new comparison, explicitly fix the actual method version, inputs, tool access and criteria, and report actual context isolation. Test discovery and selection when those capabilities are at issue, rather than supplying a preselected source pool and claiming that it tests retrieval. Do not transfer an older version's result to revised methods or treat a plan as an executed test.
 
 ## Failure and handoff
 

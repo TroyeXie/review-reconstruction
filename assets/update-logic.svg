@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1680" height="1100" viewBox="0 0 1680 1100">
+<title>综述更新中的三种判断变化</title>
+<desc>原创方法教学图。箭头表示材料和综述判断的改变，不表示生物因果关系或统一的证据升级。</desc>
+<rect width="1680" height="1100" fill="white"/>
+<text font-size="48" fill="#074591"><tspan x="55.00" y="84.00" font-family="STKaiti">综述更新中的三种判断变化</tspan></text>
+<text font-size="29" fill="#415466"><tspan x="55.00" y="132.00" font-family="AnthropicSerifWebText">T03 / T04</tspan><tspan x="185.00" y="132.00" font-family="STKaiti">纵向比较：新增材料如何改变结论、章节和图表</tspan></text>
+<text font-size="35" fill="#074591"><tspan x="75.00" y="207.00" font-family="STKaiti">原有问题</tspan></text>
+<text font-size="35" fill="#074591"><tspan x="625.00" y="207.00" font-family="STKaiti">新增材料</tspan></text>
+<text font-size="35" fill="#074591"><tspan x="1175.00" y="207.00" font-family="STKaiti">改写后的判断</tspan></text>
+<rect x="55" y="235" width="470" height="205" rx="18" fill="#F2F5F7" stroke="#C1CBD3" stroke-width="2"/>
+<text font-size="31" fill="#074591"><tspan x="75.00" y="283.00" font-family="STKaiti">疼痛比较</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="75.00" y="327.00" font-family="STKaiti">病例系列存在局限</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="75.00" y="368.00" font-family="STKaiti">随机试验正在招募</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="75.00" y="409.00" font-family="AnthropicSerifWebText">T03</tspan><tspan x="125.00" y="409.00" font-family="STKaiti">：</tspan><tspan x="152.00" y="409.00" font-family="AnthropicSerifWebText">NCT03309813</tspan></text>
+<rect x="605" y="235" width="470" height="205" rx="18" fill="#EDF3F4" stroke="#C1CBD3" stroke-width="2"/>
+<text font-size="27" fill="#17212C"><tspan x="625.00" y="327.00" font-family="STKaiti">同一登记试验已发表</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="625.00" y="368.00" font-family="AnthropicSerifWebText">5 vs 5</tspan><tspan x="695.00" y="368.00" font-family="STKaiti">：三个月主要疼痛结局</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="625.00" y="409.00" font-family="STKaiti">未显示优于假治疗</tspan></text>
+<rect x="1155" y="235" width="470" height="205" rx="18" fill="#F0F3F8" stroke="#C1CBD3" stroke-width="2"/>
+<text font-size="27" fill="#17212C"><tspan x="1175.00" y="327.00" font-family="STKaiti">更新“结果待发表”状态</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="1175.00" y="368.00" font-family="STKaiti">限定疼痛类型、靶点和精度</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="1175.00" y="409.00" font-family="STKaiti">不外推所有疼痛无效</tspan></text>
+<path d="M545,338 H585 M573,330 L585,338 L573,346" fill="none" stroke="#074591" stroke-width="4"/>
+<path d="M1095,338 H1135 M1123,330 L1135,338 L1123,346" fill="none" stroke="#074591" stroke-width="4"/>
+<rect x="55" y="475" width="470" height="205" rx="18" fill="#F2F5F7" stroke="#C1CBD3" stroke-width="2"/>
+<text font-size="31" fill="#074591"><tspan x="75.00" y="523.00" font-family="STKaiti">长期随访</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="75.00" y="567.00" font-family="STKaiti">已有随机比较和开放随访</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="75.00" y="608.00" font-family="AnthropicSerifWebText">T03</tspan><tspan x="125.00" y="608.00" font-family="STKaiti">已提及四年小样本</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="75.00" y="649.00" font-family="STKaiti">仍需区分设计与随访人群</tspan></text>
+<rect x="605" y="475" width="470" height="205" rx="18" fill="#EDF3F4" stroke="#C1CBD3" stroke-width="2"/>
+<text font-size="27" fill="#17212C"><tspan x="625.00" y="567.00" font-family="STKaiti">同一试验的五年开放随访</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="625.00" y="608.00" font-family="AnthropicSerifWebText">40 / 75</tspan><tspan x="708.00" y="608.00" font-family="STKaiti">名受治者到访</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="625.00" y="649.00" font-family="STKaiti">存在失访与后续治疗</tspan></text>
+<rect x="1155" y="475" width="470" height="205" rx="18" fill="#F0F3F8" stroke="#C1CBD3" stroke-width="2"/>
+<text font-size="27" fill="#17212C"><tspan x="1175.00" y="567.00" font-family="STKaiti">新增有条件的持久性判断</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="1175.00" y="608.00" font-family="STKaiti">保留持续不良事件</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="1175.00" y="649.00" font-family="STKaiti">不称五年假治疗对照</tspan></text>
+<path d="M545,578 H585 M573,570 L585,578 L573,586" fill="none" stroke="#074591" stroke-width="4"/>
+<path d="M1095,578 H1135 M1123,570 L1135,578 L1123,586" fill="none" stroke="#074591" stroke-width="4"/>
+<rect x="55" y="715" width="470" height="205" rx="18" fill="#F2F5F7" stroke="#C1CBD3" stroke-width="2"/>
+<text font-size="31" fill="#074591"><tspan x="75.00" y="763.00" font-family="STKaiti">递送与读出</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="75.00" y="807.00" font-family="STKaiti">屏障开放已可观察</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="75.00" y="848.00" font-family="STKaiti">早期组织药物测量受限</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="75.00" y="889.00" font-family="STKaiti">临床获益仍待验证</tspan></text>
+<rect x="605" y="715" width="470" height="205" rx="18" fill="#EDF3F4" stroke="#C1CBD3" stroke-width="2"/>
+<text font-size="27" fill="#17212C"><tspan x="625.00" y="807.00" font-family="STKaiti">两项不同的后续研究：</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="625.00" y="848.00" font-family="STKaiti">抗体相关示踪分布</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="625.00" y="889.00" font-family="STKaiti">联合治疗的淀粉样</tspan><tspan x="841.00" y="889.00" font-family="AnthropicSerifWebText">PET</tspan></text>
+<rect x="1155" y="715" width="470" height="205" rx="18" fill="#F0F3F8" stroke="#C1CBD3" stroke-width="2"/>
+<text font-size="27" fill="#17212C"><tspan x="1175.00" y="807.00" font-family="STKaiti">注明新增的是哪种测量</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="1175.00" y="848.00" font-family="STKaiti">递送机制与临床获益分开</tspan></text>
+<text font-size="27" fill="#17212C"><tspan x="1175.00" y="889.00" font-family="STKaiti">不补齐未测得的因果环节</tspan></text>
+<path d="M545,818 H585 M573,810 L585,818 L573,826" fill="none" stroke="#074591" stroke-width="4"/>
+<path d="M1095,818 H1135 M1123,810 L1135,818 L1123,826" fill="none" stroke="#074591" stroke-width="4"/>
+<text font-size="28" fill="#354957"><tspan x="55.00" y="1013.00" font-family="STKaiti">箭头表示材料与写作判断的改变；各行不是统一的证据等级或生物因果链。</tspan></text>
+<text font-size="26" fill="#354957"><tspan x="55.00" y="1057.00" font-family="STKaiti">原创教学示意，来源与未解决事项见配套分析；图中人数不得合并为独立研究总数。</tspan></text>
+</svg>
